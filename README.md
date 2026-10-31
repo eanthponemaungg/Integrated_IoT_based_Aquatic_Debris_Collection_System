@@ -69,8 +69,7 @@
 ## Project Demonstration
 
 ![System Design](docs/System%20Design.PNG)
-📄 [View Flowchart, App Interface, Web Dashboard, System Photos and Diagrams]
-(docs/Flowchart%2C%20App%20Interface%2C%20Web%20Dashboard%2C%20and%20System%20Diagrams.docx)
+📄 [View Flowchart, App Interface, Web Dashboard, and System Diagrams](docs/Flowchart%2C%20App%20Interface%2C%20Web%20Dashboard%2C%20and%20System%20Diagrams.docx)
 
 ## Achievement
 
